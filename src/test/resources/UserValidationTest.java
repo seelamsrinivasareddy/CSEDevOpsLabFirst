@@ -1,4 +1,8 @@
 
-public class UserValidationTest {
-
+public class UserValidationTest 
+{
+	public void saranya()
+	{
+		System.out.println("From saranya");
+	}
 }
